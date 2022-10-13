@@ -1,1 +1,1 @@
-fix the issue=modified on branch master
+ this is the correct fix for issue1 :according mgr
